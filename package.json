@@ -5,6 +5,7 @@
   "homepage": "https://github.com/sergeyfilimonov/plugin-yandex-metrika#readme",
   "repository": "https://github.com/sergeyfilimonov/plugin-yandex-metrika",
   "main": "gridsome.client.js",
+  "author": "Sergey Filimonov <email@sergeyfilimonov.com>",
   "license": "MIT",
   "files": [
     "gridsome.client.js"
