@@ -1,4 +1,4 @@
-# @sergeyfilimonov/plugin-yandex-metrika
+# @sergeyfilimonov/gridsome-plugin-yandex-metrika
 
 Yandex Metrika plugin for Gridsome.
 
