@@ -1,4 +1,4 @@
-# @sergeyfilimonov/yandex-metrika-analytics
+# @sergeyfilimonov/plugin-yandex-metrika
 
 Yandex Metrika plugin for Gridsome.
 
@@ -6,8 +6,8 @@ See [Vue Yandex Metrika](https://www.npmjs.com/package/vue-yandex-metrika) for o
 
 ## Install
 
-`npm install @sergeyfilimonov/plugin-yandex-metrika --save`
-`yarn add @sergeyfilimonov/plugin-yandex-metrika`
+- `npm install @sergeyfilimonov/plugin-yandex-metrika --save`
+- `yarn add @sergeyfilimonov/plugin-yandex-metrika`
 
 ## Usage
 
