@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0",
+  "name": "@sergeyfilimonov/plugin-google-analytics",
+  "description": "Yandex Metrika plugin for Gridsome",
+  "homepage": "https://github.com/sergeyfilimonov/plugin-yandex-metrika#readme",
+  "repository": "https://github.com/sergeyfilimonov/plugin-yandex-metrika",
+  "main": "gridsome.client.js",
+  "license": "MIT",
+  "files": [
+    "gridsome.client.js"
+  ],
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "yandex-metrika"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "vue-yandex-metrika": "^1.7.3"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
