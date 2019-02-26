@@ -1,6 +1,6 @@
 # gridsome-plugin-yandex-metrika
 
-Yandex Metrika plugin for Gridsome.
+> Yandex Metrika plugin for Gridsome.
 
 See [Vue Yandex Metrika](https://www.npmjs.com/package/vue-yandex-metrika) for other options.
 
