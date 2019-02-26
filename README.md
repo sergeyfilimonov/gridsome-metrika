@@ -1,4 +1,4 @@
-# @sergeyfilimonov/gridsome-plugin-yandex-metrika
+# gridsome-plugin-yandex-metrika
 
 Yandex Metrika plugin for Gridsome.
 
@@ -6,8 +6,8 @@ See [Vue Yandex Metrika](https://www.npmjs.com/package/vue-yandex-metrika) for o
 
 ## Install
 
-- `npm install @sergeyfilimonov/gridsome-plugin-yandex-metrika --save`
-- `yarn add @sergeyfilimonov/gridsome-plugin-yandex-metrika`
+- `npm install gridsome-plugin-yandex-metrika --save`
+- `yarn add gridsome-plugin-yandex-metrika`
 
 ## Usage
 
@@ -15,7 +15,7 @@ See [Vue Yandex Metrika](https://www.npmjs.com/package/vue-yandex-metrika) for o
 module.exports = {
   plugins: [
     {
-      use: '@sergeyfilimonov/plugin-yandex-metrika',
+      use: 'gridsome-plugin-yandex-metrika',
       options: {
         id: 'XXXXXXXX'
       }
