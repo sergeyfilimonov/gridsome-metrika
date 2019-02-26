@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
-  "name": "@sergeyfilimonov/plugin-yandex-metrika",
+  "name": "@sergeyfilimonov/gridsome-plugin-yandex-metrika",
   "description": "Yandex Metrika plugin for Gridsome",
-  "homepage": "https://github.com/sergeyfilimonov/plugin-yandex-metrika#readme",
-  "repository": "https://github.com/sergeyfilimonov/plugin-yandex-metrika",
+  "homepage": "https://github.com/sergeyfilimonov/gridsome-plugin-yandex-metrika#readme",
+  "repository": "https://github.com/sergeyfilimonov/gridsome-plugin-yandex-metrika",
   "main": "gridsome.client.js",
   "author": "Sergey Filimonov <email@sergeyfilimonov.com>",
   "license": "MIT",
